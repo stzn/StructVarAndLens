@@ -1,0 +1,2 @@
+# StructVarAndLens
+Sample of StructVarAndLens
